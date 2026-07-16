@@ -53,6 +53,15 @@ br.com.treinamento.navegacaofluxotelas
 ### 📸 Screenshots do Projeto
 
 O app possui 5 telas principais que cobrem todo o fluxo do usuário:
+
+<p align="center">
+  <img src="screenshots/welcome.jpg" width="180" alt="Welcome Screen">
+  <img src="screenshots/home.jpg" width="180" alt="Home Screen">
+  <img src="screenshots/paco.jpeg" width="180" alt="Paço do Frevo">
+  <img src="screenshots/cinema.jpeg" width="180" alt="Cinema São Luiz">
+  <img src="screenshots/cais.png" width="180" alt="Cais do Sertão">
+</p>
+
 1.  **Welcome:** Boas-vindas com foco em Recife.
 2.  **Home:** O hub de exploração.
 3.  **Detail - Novotel:** Foco em hospedagem.
