@@ -52,21 +52,26 @@ br.com.treinamento.navegacaofluxotelas
 
 ### 📸 Screenshots do Projeto
 
-O app possui 5 telas principais que cobrem todo o fluxo do usuário:
+O app possui um fluxo completo de navegação com as seguintes telas:
 
 <p align="center">
-  <img src="screenshots/welcome.jpg" width="180" alt="Welcome Screen">
-  <img src="screenshots/home.jpg" width="180" alt="Home Screen">
-  <img src="screenshots/paco.jpeg" width="180" alt="Paço do Frevo">
-  <img src="screenshots/cinema.jpeg" width="180" alt="Cinema São Luiz">
-  <img src="screenshots/cais.png" width="180" alt="Cais do Sertão">
+  <img src="screenshots/sc_welcome.png" width="220" alt="Welcome Screen">
+  <img src="screenshots/sc_home.png" width="220" alt="Home Screen">
+  <img src="screenshots/sc_esculturas.png" width="220" alt="Esculturas Detail">
+</p>
+
+<p align="center">
+  <img src="screenshots/sc_cais.png" width="220" alt="Cais do Sertão Detail">
+  <img src="screenshots/sc_paco.png" width="220" alt="Paço do Frevo Detail">
+  <img src="screenshots/sc_cinema.png" width="220" alt="Cinema São Luiz Detail">
 </p>
 
 1.  **Welcome:** Boas-vindas com foco em Recife.
-2.  **Home:** O hub de exploração.
-3.  **Detail - Novotel:** Foco em hospedagem.
-4.  **Detail - Paço do Frevo:** Foco em cultura e dança.
-5.  **Detail - Cinema São Luiz:** Foco em história e arte.
+2.  **Home:** O hub de exploração com categorias e destinos.
+3.  **Detail - Esculturas:** Detalhes com ícones de barco e passeio.
+4.  **Detail - Cais do Sertão:** Detalhes com ícones de fones e exposição.
+5.  **Detail - Paço do Frevo:** Detalhes com ícones de cafeteria e museu.
+6.  **Detail - Cinema São Luiz:** Detalhes com ícones de bilheteria e filmes.
 
 ---
 
