@@ -55,15 +55,15 @@ br.com.treinamento.navegacaofluxotelas
 O app possui um fluxo completo de navegação com as seguintes telas:
 
 <p align="center">
-  <img src="screenshots/sc_welcome.png" width="220" alt="Welcome Screen">
-  <img src="screenshots/sc_home.png" width="220" alt="Home Screen">
-  <img src="screenshots/sc_esculturas.png" width="220" alt="Esculturas Detail">
+  <img src="screenshots/welcome.png" width="220" alt="Welcome Screen">
+  <img src="screenshots/home.png" width="220" alt="Home Screen">
+  <img src="screenshots/esculturas.png" width="220" alt="Esculturas Detail">
 </p>
 
 <p align="center">
-  <img src="screenshots/sc_cais.png" width="220" alt="Cais do Sertão Detail">
-  <img src="screenshots/sc_paco.png" width="220" alt="Paço do Frevo Detail">
-  <img src="screenshots/sc_cinema.png" width="220" alt="Cinema São Luiz Detail">
+  <img src="screenshots/cais.png" width="220" alt="Cais do Sertão Detail">
+  <img src="screenshots/paco.png" width="220" alt="Paço do Frevo Detail">
+  <img src="screenshots/cinema.png" width="220" alt="Cinema São Luiz Detail">
 </p>
 
 1.  **Welcome:** Boas-vindas com foco em Recife.
